@@ -9,4 +9,5 @@ public class City {
     private String name;
     private String state;
     private String country;
+    private long salary;
 }
