@@ -10,4 +10,6 @@ public class City {
     private String state;
     private String country;
     private long salary;
+
+    private String nicename;
 }
